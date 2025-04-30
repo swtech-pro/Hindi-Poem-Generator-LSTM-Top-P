@@ -1,4 +1,4 @@
-# 📜 Hindi Poem Generator (LSTM + Top-p Sampling)
+﻿# 📜 Hindi Poem Generator (LSTM + Top-p Sampling)
 
 This project is a deep learning-based Hindi poem generator built using TensorFlow and Keras. It uses LSTM layers and top-p (nucleus) sampling to generate fluent and diverse Hindi poetry based on a seed prompt.
 
@@ -9,7 +9,7 @@ This project is a deep learning-based Hindi poem generator built using TensorFlo
 - Trained on Hindi poem lines (Kaggle dataset or your own)
 - Save and reuse model
 
-## 🛠 Requirements
+## ?? Requirements
 Install the dependencies using:
 ```bash
 pip install -r requirements.txt
@@ -44,4 +44,5 @@ python generate_poem.py "प्रकृति की"
 `प्रकृति की गोद में बिखरे हैं रंग और सुरों की मिठास...`
 
 ## 👨‍💻 Author
-Developed as part of an AI Poetry Generation initiative.
+Developed as part of an AI Poetry Generation initiative by Sandeep Kumar Varshney.
+
