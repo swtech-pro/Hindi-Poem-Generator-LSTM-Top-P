@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+lstm_hindi_poem.h5
+*.h5
+*.zip
